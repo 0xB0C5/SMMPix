@@ -48,7 +48,7 @@ Usage
 
 - Click the Upload button and wait for it to compile and upload.
 
-- If your Magic NS hasn't been set up with your Switch, follow the instructions it came with. Plug in any controller into it and follow the prompt to press L + R or whatever it asks. As long as the Magic NS stays plugged in to your Switch, you won't have to go through this flow again (even with nothing plugged into the Magic NS).
+- If your Magic NS hasn't been set up with your Switch, follow the instructions it came with. Plug in any controller into it and follow the prompt to press L + R or whatever it asks. As long as the Magic NS stays plugged in to your Switch, you won't have to go through this prompt again (even with nothing plugged into the Magic NS).
 
 - In Super Mario Maker 2, navigate to the comment drawing screen. Place the cursor in the top left corner, with the smallest brush, with black selected.
 
